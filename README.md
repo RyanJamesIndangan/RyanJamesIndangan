@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on: Expanding my expertise in backend development and scalable architecture, focusing on enhancing and maintaining robust web applications.
+
+👯 I’m looking to collaborate on: Projects that involve full-stack development, API integrations, and innovative web-based solutions where I can leverage my background in PHP frameworks, AWS, and modern front-end libraries.
+
+🤝 I’m looking for help with: Enhancing cloud infrastructure strategies and staying updated with the latest cybersecurity practices to reinforce application security.
+
+🌱 I’m currently learning: New methodologies for streamlining agile project management and emerging JavaScript frameworks to expand my versatility in development.
+
+💬 Ask me about: Leading complex projects, building data management platforms, or my experience working with international teams and high-stakes projects for organizations like PAGCOR and UN-Habitat.
+
+⚡ Fun fact: I thrive in dynamic environments and have led teams to build systems that support national-scale operations, including custom framework development for enhanced API capabilities
 
 
 ## 🌐 Socials:

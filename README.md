@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RyanJamesIndangan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![image](https://github.com/user-attachments/assets/7fc6d22f-3ec3-497c-8502-f24b44d35599)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RyanJamesIndangan&icon=0&color=0)](https://visitcount.itsvg.in)

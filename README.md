@@ -29,7 +29,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![image](https://github.com/user-attachments/assets/7fc6d22f-3ec3-497c-8502-f24b44d35599)
+![image](   https://github-readme-activity-graph.vercel.app/graph?username=RyanJamesIndangan)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyanJamesIndangan&theme=github-compact&hide_border=true&area=true)
 
 
 ---
